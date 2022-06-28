@@ -8,7 +8,7 @@ Working at Tencent, new this year, a small rookie ![](https://img.shields.io/bad
 
 Occasionally write some [blogs](https://juejin.cn/user/4265760848877976), but now basically break ![](https://img.shields.io/badge/Followers-16-%231E80FE)
 
-Active in [Raycast](https://www.raycast.com) community, made several small [extensions](https://www.raycast.com/koinzhang) ![](https://img.shields.io/badge/Download-6.6k-FF6161)
+Active in Raycast community, made several small [extensions](https://www.raycast.com/koinzhang) ![](https://img.shields.io/badge/Download-6.6k-FF6161)
 
 Earned two cups of [coffee](https://www.buymeacoffee.com/koinzhang) so far. Thanks for the support ![](https://img.shields.io/badge/Supporters-2-%23FFDD03)
 
