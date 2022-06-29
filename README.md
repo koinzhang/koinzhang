@@ -6,7 +6,7 @@ A little familiar with Java, Kotlin, TS programming languages.👨‍💻
 
 Working at Tencent, new this year, a small rookie [![](https://img.shields.io/badge/Tencent-1-%230053D9)](https://www.tencent.com)
 
-Occasionally write some blogs, but now basically break [![](https://img.shields.io/badge/Followers-16-%231E80FE)](https://juejin.cn/user/4265760848877976)
+Occasionally write some blogs, but now basically break [![](https://img.shields.io/badge/Followers-16-%231E80FE)](https://juejin.cn/user/4265760848877976/posts)
 
 Active in Raycast community, made several small extensions [![](https://img.shields.io/badge/Download-6.6k-FF6161)](https://www.raycast.com/koinzhang)
 
