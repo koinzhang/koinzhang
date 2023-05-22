@@ -4,11 +4,9 @@ An Android developer, who is learning TS and wants to learn Swift.🤖
 
 A little familiar with Java, Kotlin, TS programming languages.👨‍💻
 
-Working at Tencent, new this year, a small rookie [![](https://img.shields.io/badge/Tencent-1-%230053D9)](https://www.tencent.com)
-
 Occasionally write some blogs, but now basically break [![](https://img.shields.io/badge/Followers-16-%231E80FE)](https://juejin.cn/user/4265760848877976/posts)
 
-Active in Raycast community, made several small extensions [![](https://img.shields.io/badge/Download-18k-FF6161)](https://www.raycast.com/koinzhang)
+Active in Raycast community, made several small extensions [![](https://img.shields.io/badge/Download-41k-FF6161)](https://www.raycast.com/koinzhang)
 
 Earned two cups of coffee so far. Thanks for the support [![](https://img.shields.io/badge/Supporters-2-%23FFDD03)](https://www.buymeacoffee.com/koinzhang)
 
