@@ -1,14 +1,14 @@
-### Here is koinzhang 🥳
+### Here is koin 🪙
 
 An Android developer, who is learning TS and wants to learn Swift.🤖
 
 A little familiar with Java, Kotlin, TS programming languages.👨‍💻
 
-Occasionally write some blogs, but now basically break [![](https://img.shields.io/badge/Followers-16-%231E80FE)](https://juejin.cn/user/4265760848877976/posts)
-
-Active in Raycast community, made several small extensions [![](https://img.shields.io/badge/Download-41k-FF6161)](https://www.raycast.com/koinzhang)
+Active in Raycast community, made several small extensions [![](https://img.shields.io/badge/Download-83k-FF6161)](https://www.raycast.com/koinzhang)
 
 Earned two cups of coffee so far. Thanks for the support [![](https://img.shields.io/badge/Supporters-2-%23FFDD03)](https://www.buymeacoffee.com/koinzhang)
+
+<a href="https://www.buymeacoffee.com/koinzhang" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 How to reach me: [Email](mailto:koinzhang@gmail.com), [Telegram](https://t.me/koinzhang)
 
