@@ -1,10 +1,4 @@
-### Here is koin 🪙
-
-An Android developer, who is learning TS and wants to learn Swift.🤖
-
-A little familiar with Java, Kotlin, TS programming languages.👨‍💻
-
-Active in Raycast community, made several small extensions # Hi, I’m Koin! 🪙
+# Hi, I’m Koin! 🪙
 
 I'm an Android developer with a keen interest in expanding my skills across other languages and platforms. Currently diving into TypeScript and soon planning to take on Swift!
 
@@ -20,9 +14,14 @@ Learning Goals: Mastering TypeScript and Swift to broaden my development toolkit
 
 Feel free to reach out—I'm always open to discussions, collaborations, and sharing insights.
 
-[Email](mailto:koinzhang@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:koinzhang@gmail.com)
 
-[Telegram](https://t.me/koinzhang)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram)](https://t.me/koinzhang)
+
+
+
+
+
 
 <!--
 **koinzhang/koinzhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
